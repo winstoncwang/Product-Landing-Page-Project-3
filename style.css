@@ -1,0 +1,35 @@
+body{
+    text-align:left;
+    font-family:sans-serif serif;
+}
+#header{
+    width:100%;
+    top:0;
+}
+#nav-bar ul li{
+    list-style-type:none;
+    margin:0px 30px auto;
+}
+#nav-bar ul li a{
+    text-decoration:none;
+    color:black;
+    text-align:center;
+    
+}
+#nav-bar ul{
+    display:flex;
+    flex-direction:row;
+    padding:0px;
+    margin:0px;
+    
+    
+}
+#nav-bar{
+    display:inline-block;
+    width:
+}
+#header-img{
+    display:inline-block;
+    text-align:left !important;
+    
+}
