@@ -15,6 +15,7 @@ main{
     flex-direction: row;
     align-content: center;
     align-items: center;
+    font-size:18px;
     
 }
 #nav-bar ul li{
@@ -23,7 +24,13 @@ main{
 #nav-bar ul li a{
     text-decoration:none;
     color:black;
-    
+    padding:15px;
+}
+#nav-bar ul li a:hover{
+    color:white;
+    background-color:lightskyblue;
+    padding:15px;
+    border-radius:4px;
 }
 #nav-bar ul{
     display:flex;

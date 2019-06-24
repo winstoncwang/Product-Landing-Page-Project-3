@@ -17,3 +17,8 @@ User Story #12: When I click the #submit element, the email is submitted to a st
 User Story #13: The navbar should always be at the top of the viewport.
 User Story #14: My product landing page should have at least one media query.
 User Story #15: My product landing page should utilize CSS flexbox at least once.
+
+
+Contents:
+https://gizmodo.com/a-brief-history-of-scientists-hunting-for-time-traveler-1641272404
+https://www.dailymail.co.uk/home/moslive/article-1269288/STEPHEN-HAWKING-How-build-time-machine.html
