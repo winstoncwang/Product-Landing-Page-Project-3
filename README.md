@@ -54,3 +54,36 @@ Price etc
 Finish within the next two days.
 
 -----------------------------------------------------
+Version 0.2.1
+Updated media query for small/medium screens
+Updated button position to be on the bottom using absolute and relative positioning.
+Updated the nav-bar and logo
+
+To-do-list:
+Check user story
+Add more contents
+Add more interesting layouts
+
+------------------------------------------------------
+Version 0.2.2
+Updated nav location
+Updated separator
+
+-----------------------------------------------------
+Version 0.2.3
+Updated nav bar to the right location
+Updated separator margin
+Updated column container and their alt form
+
+------------------------------------------------------
+Version 0.2.4
+Complete feature section
+Updated container
+Included about us section
+
+To-do-list:
+Need to change the location of the Video to a better section.
+Fulfil all the user story
+
+--------------------------------------------------------
+
