@@ -86,4 +86,17 @@ Need to change the location of the Video to a better section.
 Fulfil all the user story
 
 --------------------------------------------------------
+Version 0.2.5
 
+
+Added about me section
+Have a plan for designing the price plan section
+Relocated video section
+
+---------------------------------------------------------
+Version 0.2.6
+
+Added price plan section
+Updated button effect with box shadow
+
+-----------------------------------------------------------

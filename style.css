@@ -26,7 +26,6 @@ main{
     font-size:18px;
     background-color:white;
     z-index:10;
-    
 }
 
 #header-img{
@@ -358,5 +357,4 @@ margin:8px 0px;
     width:100%;
     border-radius:4px;
     }
- 
 }
